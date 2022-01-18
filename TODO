@@ -1,0 +1,3 @@
+1. Settings files need to be added -- DONE
+2. Do we want to install Redis? If so, ensure it's there AND fix the dodgy logic to see if something is installed
+3. Nginx aint working...
